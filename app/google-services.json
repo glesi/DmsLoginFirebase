@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "203631733901",
+    "project_id": "dsmloginfirebase-9a159",
+    "storage_bucket": "dsmloginfirebase-9a159.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203631733901:android:e16f6eb3349f08e69886c4",
+        "android_client_info": {
+          "package_name": "com.udb.dsm.login.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203631733901-gui9uajctjdh4f6mpin14qvml1eo9bc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udb.dsm.login.firebase",
+            "certificate_hash": "e865750b47b57dcbc1d9984574228ec48d585d02"
+          }
+        },
+        {
+          "client_id": "203631733901-p45vvm1h3gjg3kf2840nnu3ibpep8it5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBQtZ0s4yUppNuPBSP5Kz2KCCzNEPX_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203631733901-p45vvm1h3gjg3kf2840nnu3ibpep8it5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

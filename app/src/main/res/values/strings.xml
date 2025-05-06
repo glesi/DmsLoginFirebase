@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DSMLoginFirebase</string>
+    <string name="app_logo">Logo de la aplicación</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button_text">Iniciar Sesión</string>
+    <string name="or_separator">O</string>
+    <string name="google_sign_in_failed">Error al iniciar sesión con Google: %s</string>
+    <string name="email_login_failed">Error al iniciar sesión: %s</string>
+    <string name="welcome_message">¡Bienvenido, %s!</string>
+    <string name="login_successful">Inicio de sesión exitoso</string>
+    <string name="login_cancelled">Inicio de sesión cancelado</string>
+    <string name="input_error_email">Ingresa un correo válido</string>
+    <string name="input_error_password">Ingresa una contraseña</string>
+
+    <!-- Firebase / Google Sign In -->
+    <!-- IMPORTANTE: Reemplaza "YOUR_WEB_CLIENT_ID" con el ID real de tu archivo google-services.json -->
+    <string name="default_web_client_id" translatable="false">203631733901-gui9uajctjdh4f6mpin14qvml1eo9bc2.apps.googleusercontent.com</string>
+
+    <!-- Main Activity -->
+    <string name="main_activity_title">Pantalla Principal</string>
+    <string name="logout_button_text">Cerrar Sesión</string>
+    <string name="logged_in_as">Sesión iniciada como: %s</string>
+</resources>
